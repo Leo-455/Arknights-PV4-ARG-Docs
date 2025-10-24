@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "story": {
+      "guides": {
+        "g1": {
+          "content": "感谢您的配合，\n接下来，我将询问你对一些具体观念的看法，以此来检验你的判断与逻辑能力。\n准备好了吗？",
+          "options": [
+            "我会坦诚相告。"
+          ]
+        },
+        "g2": {
+          "type": 2,
+          "due": "q10",
+          "contents": {
+            "t": "那你现在又在坚持什么呢？",
+            "f": "这就是你现在坚持这些荒唐举动的理由吗？"
+          },
+          "options": []
+        },
+        "g3": {
+          "type": 1,
+          "content": [
+            "你开始产生戒备了？",
+            "请不要怀有无必要的戒备，我更希望你将这当作一场正常的谈心。\n现在，请仔细回想自己过往的一切，然后回答对以下问题的看法。\n请敞开心扉，好吗？"
+          ],
+          "options": [
+            [
+              "同意",
+              "不同意"
+            ],
+            [
+              "好的"
+            ]
+          ]
+        },
+        "g4": {
+          "content": "测试结束，感谢你的配合。\n请相信，你所做的一切选择都是有意义的。",
+          "options": []
+        }
+      },
+      "questions": [
+        {
+          "key": "q1",
+          "content": "最近发生的许多事情都令你感到疑惑，并且难以接受。",
+          "affect": false,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q2",
+          "content": "你认为自己被他人赋予了难以看到希望的使命。",
+          "affect": false,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q3",
+          "content": "你怀疑自己很长一段时间以来的判断和选择出现了错误，并且认为自己是时候放弃一些事情了。",
+          "affect": false,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q4",
+          "content": "个体生命的价值会因其认知与行为能力而有所区别。 ",
+          "affect": true,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q5",
+          "content": "存续是文明的第一目的。",
+          "affect": true,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q6",
+          "content": "在上一条问题的前提下，文明的价值同样可以被衡量比较。",
+          "affect": true,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q7",
+          "content": "文明的目的间接构成了其中每一个个体生命的行为准则。",
+          "affect": true,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q8",
+          "content": "在上一条问题的前提下，文明的准则，是个体生命对抗注定的毁灭与虚无的唯一答案。",
+          "affect": true,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q9",
+          "content": "生物生命不是唯一的生命形态。",
+          "affect": true,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q10",
+          "content": "没有实现概率的希望是一种谎言。",
+          "affect": true,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q11",
+          "content": "有理由的背叛应当被原谅。",
+          "affect": false,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q12",
+          "content": "并非出于自私的隐瞒不该被当作一种欺骗。",
+          "affect": false,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "不同意"
+            }
+          ]
+        },
+        {
+          "key": "q13",
+          "content": "你会理解我的。",
+          "affect": false,
+          "options": [
+            {
+              "key": "t",
+              "content": "同意"
+            },
+            {
+              "key": "f",
+              "content": "我会有自己的选择",
+              "hide": true
+            }
+          ]
+        }
+      ]
+    },
+    "flow": [
+      {
+        "type": "quest",
+        "key": "q1"
+      },
+      {
+        "type": "quest",
+        "key": "q2"
+      },
+      {
+        "type": "quest",
+        "key": "q3"
+      },
+      {
+        "type": "guide",
+        "key": "g1"
+      },
+      {
+        "type": "quest",
+        "key": "q4"
+      },
+      {
+        "type": "quest",
+        "key": "q5"
+      },
+      {
+        "type": "quest",
+        "key": "q6"
+      },
+      {
+        "type": "quest",
+        "key": "q7"
+      },
+      {
+        "type": "quest",
+        "key": "q8"
+      },
+      {
+        "type": "quest",
+        "key": "q9"
+      },
+      {
+        "type": "quest",
+        "key": "q10"
+      },
+      {
+        "type": "guide",
+        "key": "g2"
+      },
+      {
+        "type": "guide",
+        "key": "g3"
+      },
+      {
+        "type": "quest",
+        "key": "q11"
+      },
+      {
+        "type": "quest",
+        "key": "q12"
+      },
+      {
+        "type": "quest",
+        "key": "q13"
+      },
+      {
+        "type": "guide",
+        "key": "g4"
+      }
+    ]
+  },
+  "msg": ""
+}
