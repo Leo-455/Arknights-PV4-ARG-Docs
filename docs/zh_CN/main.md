@@ -518,6 +518,12 @@ la noche arrolladora, el universo.
 
 # Code49
 
+> 本章参考资料[^uss-49] [^barcode-book]
+
+[^uss-49]: USS-49 https://www.expresscorp.com/wp-content/uploads/2023/02/USS-49.pdf
+
+[^barcode-book]: 条形码技术应用-李金哲，朱俊英编著-辽宁科学技术出版社，1991. （[资源网盘](https://github.com/Leo-455/Arknights-PV4-ARG-Docs/blob/master/README.md#资源网盘)里有PDF）
+
 回到卡片上，除去文字外，卡片上还印有一些条状图案。经过对比，我们可以发现这是Code49条码。如今Code49可以说是一种非常罕见的条码了，在网络上关于Code49的资料并不多，以至于没有现成的解码工具可以使用，所以我们不得不手动进行解码。
 
 >Code49 示意图[^Barcode] 
@@ -1079,8 +1085,7 @@ EXPORT_CHUNK story_lynchpin TO _story -> story_content
 
 <summary>一些值得注意的部分</summary>
 
-> [!WARNING]
->仅代表个人看法
+> 仅代表个人看法
 
 结果为白的部分：
 
