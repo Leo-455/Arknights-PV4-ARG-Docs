@@ -168,11 +168,12 @@ ITA2 码表：[^ITA2]
 
 <details>
 
-<summary>这里有一个关于天球与赤道坐标系的简单介绍：[^Equatorial coordinate system]</summary>
+<summary>这里有一个关于天球与赤道坐标系的简单介绍：</summary>
 
-[^Equatorial coordinate system]: Equatorial coordinate system-wikipedia https://en.wikipedia.org/wiki/Equatorial_coordinate_system
-
+[^Equatorial-coordinate-system]
 ![](../img/赤道坐标系-示意图.png)
+
+[^Equatorial-coordinate-system]: Equatorial coordinate system-wikipedia https://en.wikipedia.org/wiki/Equatorial_coordinate_system
 
 与经纬度类似，在赤道坐标系中，使用赤经和赤纬来确定天体在天空中的位置。我们可以想象，将地面上的经纬度网格放大到天空中，形成包裹在地球外的一层球体，并将全部的星星都投影在这层球体上，我们叫它天球，之后将地球上的赤道、南北极点也投影到天球上，分别称为天赤道，北天极和南天极。
 
@@ -221,9 +222,9 @@ ITA2 码表：[^ITA2]
 
 与明日方舟中出现的其他文字类似，萨卡兹文是对拉丁字母和阿拉伯数字的单表替换。换句话说，这些文字实际上都是一种字体，且不区分大小写。因此我们只需要按照对照表就可以将其写成原本语言的形式，唯一需要注意的是这些文字有时会被倒置或者翻转过来书写。于是，我们就可以将上面这段文字写成`ib ahbyp`。
 
->萨卡兹文字对照表[^泰拉文字-PRTSwiki]
+>萨卡兹文字对照表[^terra-language]
 
-[^泰拉文字-PRTSwiki]: 泰拉文字-PRTSwiki https://prts.wiki/w/泰拉文字
+[^terra-language]: 泰拉文字-PRTSwiki https://prts.wiki/w/泰拉文字
 
 ![](../img/萨卡兹文字表.png)
 
@@ -231,10 +232,10 @@ ITA2 码表：[^ITA2]
 
 >萨卡兹文字与萨卡兹语是不同的，注意区分。上文中的“原本语言”可能是英语、拉丁语、萨卡兹语或其他可能的语言。
 
-原文的右上角还有一个盲文，表示的是数字7或者字母g。[^盲文-维基百科]
+原文的右上角还有一个盲文，表示的是数字7或者字母g。[^Braille]
 ![](../img/盲文.png)
 
-[^盲文-维基百科]: 盲文-维基百科 https://zh.wikipedia.org/wiki/盲文
+[^Braille]: 盲文-维基百科 https://zh.wikipedia.org/wiki/盲文
 
 同样，谜面中的这些符号也是盲文。
 
@@ -318,7 +319,7 @@ ib ahbyp
 ![](../img/屏幕截图%202025-10-20%20225649.png)
 >光速销号
 
->至今我们也不知道发密码的人是谁。另外，在F组的一条[森空岛动态](https://www.skland.com/article?id=1917285)下，有人回复“密码不是我们（FUTURE攻坚组）发的”。[^F组森空岛动态]  
+>至今我们也不知道发密码的人是谁。另外，在F组的一条[森空岛动态](https://www.skland.com/article?id=1917285)下，有人回复“密码不是我们（FUTURE攻坚组）发的”。[^future-skd-msg]  
 
 大家在惊讶和不解之余发现这个密码竟然真的可以登陆进网站，登录后会提示WELCOME BACK，前几位进入网站的用户可以登陆游戏账号并填写收货地址，填写成功后会显示“你的订单已被接收，正在处理中”此外，网站上的磁带图片的右上角经过处理可以勉强辨认出一些文字。
 
@@ -331,9 +332,9 @@ ib ahbyp
 
 可以发现对密码中的第1、2位答案的位置进行了修改。修改后的字谜可以解出正确的用户名`ELCARO`
 
-此外，登陆界面多出来了一行“忘记密码”选项，点击后会提示“如何判断一颗星星是在靠近还是远离我”。大家很快就想到了红移与蓝移，即多普勒效应，但一直没有搞清楚密码是如何得出的。不久之后，F组发布谜题梳理，给出了他们解出密码的过程。[^明日方舟五周年PV-4谜题梳理]
+此外，登陆界面多出来了一行“忘记密码”选项，点击后会提示“如何判断一颗星星是在靠近还是远离我”。大家很快就想到了红移与蓝移，即多普勒效应，但一直没有搞清楚密码是如何得出的。不久之后，F组发布谜题梳理，给出了他们解出密码的过程。[^team-future-reporte#1]
 
-[^明日方舟五周年PV-4谜题梳理]: 明日方舟五周年PV-4谜题梳理-森空岛-FUTURE攻坚组 https://www.skland.com/article?id=1826960
+[^team-future-reporte#1]: 明日方舟五周年PV-4谜题梳理-森空岛-FUTURE攻坚组 https://www.skland.com/article?id=1826960
 
 将PV4 1:43处的光点视为摩尔斯电码，蓝色光点为分割符，将红光与白光分别视作点和划，可以解码出`66253657`或`11708102`：
 
@@ -349,12 +350,13 @@ ib ahbyp
 # 包裹
 经过漫长的等待，2024年5月10号开始有部分填写了收件信息的博士收到快递确认的短信。16号，快递逐渐到货，邮件内有一盘磁带和一张蓝色纸片。
 
-然而，似乎并不是所有进入了网站并填写信息的人都收到了包裹（来源请求），鹰角根据什么因素来选择尚不明确。FUTURE攻坚组解出用户名和密码的时间应该比 NGA 上早，然而同样在F组的森空岛动态[^F组森空岛动态]下，有人回复证实只有一人收到了包裹。表明鹰角并不是单纯的按照进入网站的顺序发包裹的。  
-[^F组森空岛动态]: https://www.skland.com/article?id=1917285
+然而，似乎并不是所有进入了网站并填写信息的人都收到了包裹（来源请求），鹰角根据什么因素来选择尚不明确。FUTURE攻坚组解出用户名和密码的时间应该比 NGA 上早，然而同样在F组的森空岛动态[^future-skd-msg]下，有人回复证实只有一人收到了包裹。表明鹰角并不是单纯的按照进入网站的顺序发包裹的。
+
+[^future-skd-msg]: 森空岛 https://www.skland.com/article?id=1917285
 
 鹰角一共发出了多少份包裹同样无法完全统计，根据后文中拼接Code49的部分共有14种不同的卡片可以得知，鹰角发出的包裹总数一定在14份以上。根据文档中收录的图片猜测，鹰角可能每种卡片发2个左右，也就是大概有28～30人左右收到了鹰角的包裹。（需要更多信息，希望能有收到的人补充）
 
-包裹及卡片上并没有明显的荧光标记存在。[^荧光标记]
+包裹及卡片上并没有明显的荧光标记存在。[^mark]
 
 ## 彩蛋
 在全部包裹中，有一个特殊包裹由森空岛用户 Carbon_Dioxide 收到，包裹内除了与其他包裹相同的卡片及磁带外，还有一盘皇后乐队的《'39》磁带。  
@@ -474,18 +476,18 @@ la noche arrolladora, el universo.
 
 卡片的另一面印有黑色不规则图案以及一篇文章的片段，将其组合后可以看到完整的文章。
 
->原文[^PV4第二阶段解谜中期报告#1]
+>原文[^team-future-reporte#2]
 
 ![](../img/lynchpin原文.jpg)
 
->翻译后的译文，仅供参考[^PV4第二阶段解谜中期报告#1]
+>翻译后的译文，仅供参考[^team-future-reporte#2]
 
 ![](../img/lynchpin译文.jpg)
 
-[^PV4第二阶段解谜中期报告#1]: PV4第二阶段解谜中期报告#1-森空岛-FUTURE攻坚组 https://www.skland.com/article?id=1943793
+[^team-future-reporte#2]: PV4第二阶段解谜中期报告#1-森空岛-FUTURE攻坚组 https://www.skland.com/article?id=1943793
 
-卡片上同样没有明显的荧光标记内容。[^荧光标记]  
-[^荧光标记]: [#4983](https://ngabbs.com/read.php?tid=40003975&page=250#4983)   [#5126](https://ngabbs.com/read.php?tid=40003975&page=257#5126)
+卡片上同样没有明显的荧光标记内容。[^mark]  
+[^mark]: NGA解谜楼 [#4983](https://ngabbs.com/read.php?tid=40003975&page=250#4983)   [#5126](https://ngabbs.com/read.php?tid=40003975&page=257#5126)
 
 # Lynchpin 网站
 
