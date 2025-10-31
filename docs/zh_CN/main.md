@@ -1,5 +1,7 @@
 # 目录
 
+**本项目地址：https://github.com/Leo-455/Arknights-PV4-ARG-Docs**
+
 - [目录](#目录)
 - [谜题的入口](#谜题的入口)
 - [线索](#线索)
@@ -30,6 +32,7 @@
 - [推荐阅读](#推荐阅读)
 - [时间线](#时间线)
 
+<div STYLE="page-break-after: always;"></div>
 
 # 谜题的入口
 2024年4月27日，明日方舟发布了[游戏概念宣传PV-4](https://www.bilibili.com/video/BV1VC411H78i/)，由于有在PV中藏解谜的传统，大家立刻开始在视频中寻找蛛丝马迹，一些明显的线索很快就被发现，但谜题的入口仍然未知。
@@ -138,6 +141,8 @@ ITA2 码表：[^ITA2]
 
 但我们现在知道，实际上这时字谜是有误的，因此在当时解出用户名的过程有很多猜测的成分。关于这一点会在后面详细说到，现在我们先来看看这七条线索。
 
+<div STYLE="page-break-after: always;"></div>
+
 # 线索
 
 ## 线索一
@@ -151,6 +156,8 @@ ITA2 码表：[^ITA2]
 ![](../img/bg-bottom.376679（叠加）.jpg)
 
 按照[画师在微博上的说法](https://weibo.com/2103451920/On4PFhObE)，可能使用的是这张图的早期版本。
+
+<div STYLE="page-break-after: always;"></div>
 
 ## 线索二
 
@@ -184,6 +191,8 @@ ITA2 码表：[^ITA2]
 </details>
 
 将坐标输入到 [Stellarium](https://stellarium.org/zh_CN/) 星图软件中或进行搜索就可以定位到这颗恒星了。即星宿一，Alphard。
+
+<div STYLE="page-break-after: always;"></div>
 
 ## 线索三
 ![](https://web.hycdn.cn/arknights/puzzle/standbyherside/assets/images/hint-3.640b28.png)
@@ -252,6 +261,8 @@ ib ahbyp
 ```
 搜索后可知后者是[昴宿增十二](https://en.wikipedia.org/wiki/Pleione_(star))的变星名称。因此我们可以进一步确定线索3的答案。
 
+<div STYLE="page-break-after: always;"></div>
+
 ## 线索四
 ![](https://web.hycdn.cn/arknights/puzzle/standbyherside/assets/images/hint-4.fcd1aa.png)
 
@@ -261,6 +272,8 @@ ib ahbyp
 ![](../img/parklife_封底叠加_3.17.1.png)
 
 而将图片左边的71/89视为16进制，将其转换为10进制后为113/137。因为在[YouTube电脑版](https://youtu.be/DTd5j6S337s?si=DLlYCh-kFGzYefnR&t=73)上这首歌总长为1:37，左侧的数字提示我们应该到1:13附近寻找答案。正好是我们上面找到的Antares附近。
+
+<div STYLE="page-break-after: always;"></div>
 
 ## 线索五
 线索五是一段[音频](https://web.hycdn.cn/arknights/puzzle/standbyherside/assets/audios/hint-5.8891a7.mp3)。
@@ -282,6 +295,8 @@ ib ahbyp
 >`deco.e59de0.png`  
 ![](https://web.hycdn.cn/arknights/puzzle/standbyherside/assets/images/deco.e59de0.png)
 
+<div STYLE="page-break-after: always;"></div>
+
 ## 线索六
 根据线索6的格式可以看出这是HTML码，实际上这部分的HTML码与ASCII相同，按照前文的方法可以解出[GG01](https://prts.wiki/w/CHAR#?_s=GG01)，推进之王的干员编号。回到PV中，在 1:57 附近推进之王的背影这里，闪过了一帧画面，画面最底部有一条横线，右下角写着 Ecliptic，即我们前面提到过的黄道。
 ![](../img/@明日方舟Arknights%20的个人主页%20-%20微博.mp4_20251002_135251.708.jpg)
@@ -291,6 +306,8 @@ ib ahbyp
 ![](../img/狮子座.jpg)
 
 顺着黄道寻找，我们很容易找到这颗位于狮子座的恒星，轩辕十四，Regulus
+
+<div STYLE="page-break-after: always;"></div>
 
 ## 线索七
 ![](https://web.hycdn.cn/arknights/puzzle/standbyherside/assets/images/hint-7.154c9a.png)
@@ -304,6 +321,7 @@ ib ahbyp
 
 随后我们可以直接搜索，也可以使用 [SIMBAD](http://simbad.cds.unistra.fr/simbad/sim-basic?Ident=BD%2B16+1223&submit=SIMBAD+search) 数据库查询。可得到答案为：gam(γ) Gem(Gemini) 即双子座γ星/井宿三，Alhena
 
+<div STYLE="page-break-after: always;"></div>
 
 # 用户名与密码
 到现在，我们已经解出了全部的七条线索，可以将答案填写到表格中了：
@@ -363,6 +381,8 @@ ib ahbyp
 经过尝试，后者是正确的密码，即明日方舟[回声测试微博](https://weibo.com/6279793937/Gpsm9oeUZ)发布时间20180711的倒写。值得一提的是，在回声测试之中同样也有一场非常有意思的解谜活动，预告了可露希尔的登场。
 
 此时再使用正确的用户名与密码登陆只会显示一条消息，意为：正确，但你并没有将它们全部找出来，你是猜的。
+
+<div STYLE="page-break-after: always;"></div>
 
 # 包裹
 经过漫长的等待，2024年5月10号开始有部分填写了收件信息的博士收到快递确认的短信。16号，快递逐渐到货，邮件内有一盘磁带和一张蓝色纸片。
@@ -450,7 +470,7 @@ TT
 
 ![](../img/纸片/1.2-.jpeg)
 
->纸片照片来自[这里](https://docs.qq.com/sheet/DUkVRbllrTmxqSkdw)，[本仓库](../img/纸片/)中仅包含部分较为清晰的14张。文件名命名规则：.1的是黑底 .2的是白底；+为诗词面 -论文面   
+>纸片照片来自[这里](https://docs.qq.com/sheet/DUkVRbllrTmxqSkdw)，[本仓库](https://github.com/Leo-455/Arknights-PV4-ARG-Docs/tree/master/docs/img/纸片)中仅包含部分较为清晰的14张。文件名命名规则：.1的是黑底 .2的是白底；+为诗词面 -论文面   
 >黑底、白底指的是 Code49 码的背景。  
 
 其中一面上印有一段巴勃罗·聂鲁达西班牙语诗句，黑底为单行的版本，白底则是多行的版本：
@@ -510,6 +530,8 @@ la noche arrolladora, el universo.
 卡片上同样没有明显的荧光标记内容。[^mark]  
 [^mark]: NGA解谜楼 [#4983](https://ngabbs.com/read.php?tid=40003975&page=250#4983)   [#5126](https://ngabbs.com/read.php?tid=40003975&page=257#5126)
 
+<div STYLE="page-break-after: always;"></div>
+
 # Lynchpin 网站
 
 同样，将上文中的文章标题 lynchpin 加到明日方舟官网后面，可以得到[第二个网站](https://ak.hypergryph.com/lynchpin)。网站中有一个圆和一个进度条，还播放着一段奇怪的背景音。
@@ -539,6 +561,8 @@ la noche arrolladora, el universo.
 
 >现在我们知道了数字是循环的，随之而来的问题是，循环究竟是从哪里开始的？  
 >我个人认为就是从 0% 开始的，因为。1.在后面解三阶段的密码时，是从 0%开始算的。2.三阶段网站更新后的第二天，循环被重置回了 0%
+
+<div STYLE="page-break-after: always;"></div>
 
 # Code49
 
@@ -799,8 +823,12 @@ overcontact binary
 
 上文中提到将数据转化为值的表由于过长难以手动查找，在[这里](https://github.com/lukecyca/code49/blob/master/code49/__init__.py)可以找到其数字化版本。数据的值就是其在相应列表中的索引。
 
+<div STYLE="page-break-after: always;"></div>
+
 # 迷茫与等待
 到这里，我们虽然解出了很多信息，但整场解谜还有太多的疑问没能得到解答，没人知道解谜是否结束。在之后的时间里，大家提出了很多猜想，从木星幻方到脑电波，pv4的几乎每一帧都被分析过了，但都没有什么进展。时间一天天的过去，除了偶尔有新PV发布的时候，大家逐渐的将解谜忘在脑后了，只有lynchpin页面的数字仍然在一天一天不停的循环着。
+
+<div STYLE="page-break-after: always;"></div>
 
 # bymyside
 2025年2月14日，游戏热更新之后，主线任务完成后的图片被替换了。
@@ -867,6 +895,8 @@ VFTS352，一颗巨大的过接双星，其实早在刚解出过接双星时，�
 
 登录成功后会跳转回lynchpin网站，这时我们可以发现网站的页面变了。在背景上有两个圆环在运动，似乎是双星系统的一种表示。除此之外，在四周还有四个闪烁的圆，在上面使用的图片中同样可以看到。而最特别的一点则是这个网站需要登录你的游戏账号。登陆后是一个心理测试。
 
+<div STYLE="page-break-after: always;"></div>
+
 # 网页测试
 
 网页测试的全部内容如下：
@@ -886,7 +916,7 @@ VFTS352，一颗巨大的过接双星，其实早在刚解出过接双星时，�
 | --- | --- | --- |
 | G1 | 感谢您的配合，\n接下来，我将询问你对一些具体观念的看法，以此来检验你的判断与逻辑能力。\n准备好了吗？ | 我会坦诚相告。|
 
-<font color="#2020C">
+<font color="#f44739">
 
 | 序号 key | 标题 content | 选项 options T | 选项 options F |
 | --- | --- | --- | --- |
@@ -987,6 +1017,8 @@ VFTS352，一颗巨大的过接双星，其实早在刚解出过接双星时，�
 其中结果为白的 value 为 true ，蓝的为 false 。
 
 `"rank": 35924`为页面下面的序号，基本可以确认为答题顺序。
+
+<div STYLE="page-break-after: always;"></div>
 
 # 分支剧情
 <details>
@@ -1209,6 +1241,8 @@ EXPORT_CHUNK story_lynchpin TO _story -> story_content
 ---
 
 </details>
+
+<div STYLE="page-break-after: always;"></div>
 
 # 结尾
 
