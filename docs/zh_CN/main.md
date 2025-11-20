@@ -25,6 +25,9 @@
 - [迷茫与等待](#迷茫与等待)
 - [bymyside](#bymyside)
 - [网页测试](#网页测试)
+  - [日服](#日服)
+  - [国际服](#国际服)
+  - [韩服](#韩服)
 - [分支剧情](#分支剧情)
     - [结果为白的剧情](#结果为白的剧情)
     - [结果为蓝的剧情](#结果为蓝的剧情)
@@ -851,7 +854,7 @@ overcontact binary
 <div STYLE="page-break-after: always;"></div>
 
 # bymyside
-2025年2月14日，游戏热更新之后，主线任务完成后的图片被替换了。
+2025年2月14日，游戏[热更新](https://www.bilibili.com/opus/1033650228486471687)之后，主线任务完成后的图片被替换了。
 
 >图片路径 `Android\spritepack\ui_main_mission_bg_0`  
 ![](../img/all_clear_2025.png)
@@ -1039,6 +1042,39 @@ VFTS352，一颗巨大的过接双星，其实早在刚解出过接双星时，�
 `"rank": 35924`为页面下面的序号，基本可以确认为答题顺序。
 
 <div STYLE="page-break-after: always;"></div>
+
+## 日服
+
+2025年8月7日，日服X（推特）官号发布了一条[推文](https://x.com/ArknightsStaff/status/1953361577669013973?s=20)：
+
+![](../img/日服推文.png)
+
+同时附带了一张图片：
+
+![](../img/Gxu8ADmawAA9S73.jpg)
+
+## 国际服
+
+2025年8月8日 (UTC +8)，国际服的X（推特）官号发布了一条类似的的[推文](https://x.com/ArknightsEN/status/1953667488258142458?s=20)：
+
+![](../img/国际服推文.png)
+
+附带的图片基本相同：
+
+![](../img/GxzGKtnbsAAwRyX.png)
+
+## 韩服
+
+韩服的[推文](https://x.com/ArknightsKorea/status/1953367403024531609?s=20)也与2025年8月7日发布：
+
+![](../img/韩服推文.png)
+
+附带的图片也基本相同：
+
+![](../img/GxuoQStawAAq2k4.jpg)
+
+甚至官方直接下场发了答案  
+![](../img/禁止自导自演.png)
 
 # 分支剧情
 <details>
