@@ -343,11 +343,13 @@ ib ahbyp
 
 通过对比[国际服](https://github.com/Kengxxiao/ArknightsGameData_YoStar)与[国服](https://github.com/Kengxxiao/ArknightsGameData)的剧情文本，可以确认`Oracle`为`预言家`的英文翻译。此外通过对比[《明日方舟：终末地》技术测试PV](https://www.bilibili.com/video/BV1ph4y1i7Ua/)中英文版本02:50的字幕可得到同样的结果：  
 >“管理员？预言家？还是干脆叫你博士？”  
->”Endministrator? Oracle? Perhaps i can just call you ...the Doctor?”）
+>“Endministrator? Oracle? Perhaps i can just call you ...the Doctor?”
 
 有了用户名，那密码怎么办呢？就在大家为了密码绞尽脑汁的时候，NGA上的一个用户突然发出了密码。
-![](../img/屏幕截图%202025-10-20%20225649.png)
+![](../img/屏幕截图%202025-10-20%20225649.png)[^stage1password]
 >光速销号
+
+[^stage1password]: NGA 解谜主贴[#363](https://ngabbs.com/read.php?tid=40003975&page=19#363)
 
 >至今我们也不知道发密码的人是谁。另外，在F组的一条[森空岛动态](https://www.skland.com/article?id=1917285)下，有人回复“密码不是我们（FUTURE攻坚组）发的”。[^future-skd-msg]  
 
@@ -356,7 +358,7 @@ ib ahbyp
 [^be_aware_of_lynchpin]
 ![](../img/磁带图片处理.jpg)
 
-[^be_aware_of_lynchpin]: 图片来自 NGA 主楼[#612](https://ngabbs.com/read.php?tid=40003975&page=31#612)
+[^be_aware_of_lynchpin]: 图片来自 NGA 解谜主贴[#612](https://ngabbs.com/read.php?tid=40003975&page=31#612)
 
 不久之后网站进行了更新，首先对字谜进行了修改：
 >修改前字谜
@@ -367,7 +369,16 @@ ib ahbyp
 
 可以发现对密码中的第1、2位答案的位置进行了修改。修改后的字谜可以解出正确的用户名`ELCARO`
 
-此外，登陆界面多出来了一行“忘记密码”选项，点击后会提示“如何判断一颗星星是在靠近还是远离我”。大家很快就想到了红移与蓝移，即多普勒效应，但一直没有搞清楚密码是如何得出的。不久之后，F组发布谜题梳理，给出了他们解出密码的过程。[^team-future-report#1]
+此外，登陆界面多出来了一行“忘记密码”选项，点击后会提示“如何判断一颗星星是在靠近还是远离我”：
+
+![](../img/一阶段网站忘记密码提示.png)
+
+> 网站刚更新时这个弹窗的样式有些问题，导致文字会被挤到左边。[^forget-password]  
+> ![](https://img.nga.178.com/attachments/mon_202404/28/-klbw3Q19e-ifsuK1bT3cSki-gx.jpg)
+
+[^forget-password]: 图片来自 NGA 解谜主贴[#767](https://ngabbs.com/read.php?tid=40003975&page=39#767)
+
+大家很快就想到了红移与蓝移，即多普勒效应，但一直没有搞清楚密码是如何得出的。不久之后，F组发布谜题梳理，给出了他们解出密码的过程。[^team-future-report#1]
 
 [^team-future-report#1]: 明日方舟五周年PV-4谜题梳理-森空岛-FUTURE攻坚组 https://www.skland.com/article?id=1826960
 
@@ -380,7 +391,16 @@ ib ahbyp
 
 经过尝试，后者是正确的密码，即明日方舟[回声测试微博](https://weibo.com/6279793937/Gpsm9oeUZ)发布时间20180711的倒写。值得一提的是，在回声测试之中同样也有一场非常有意思的解谜活动，预告了可露希尔的登场。
 
-此时再使用正确的用户名与密码登陆只会显示一条消息，意为：正确，但你并没有将它们全部找出来，你是猜的。
+此时再使用正确的用户名与密码登陆只会显示一条消息：
+
+![](../img/一阶段网站登陆提示.png)
+
+意为：
+```
+正确，
+但你并没有将它们全部找出来，你是猜的
+伤心 :-(
+```
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -1252,7 +1272,7 @@ EXPORT_CHUNK story_lynchpin TO _story -> story_content
 
 > 推荐不分先后顺序
 
-- [NGA 解谜主贴](https://ngabbs.com/read.php?tid=40003975) 基本完整记录了解谜的全过程，不过由于楼层数太高，全看完恐怕有些困难。 
+- [NGA 解谜主贴](https://ngabbs.com/read.php?tid=40003975) 基本完整记录了解谜的全过程，不过由于楼层数太高，全看完恐怕有些困难。可以根据[时间](#时间线)进行检索。  
 - [PRTS wiki](https://prts.wiki/w/ORACLE_DATABASE/index) PRTS 上关于这次与之前解谜的介绍。
 - [明日方舟五周年PV-4谜题梳理](https://www.skland.com/article?id=1826960) / [PV4第二阶段解谜中期报告#1](https://www.skland.com/article?id=1943793) FUTURE 攻坚组的解谜报告。
 - [明日方舟NGA社区解密群 经验总结](https://docs.qq.com/doc/DQ0tuTU53VExGemNp) 有关于 ITA2、Code49和一些常见编解码与加密技术的介绍。
