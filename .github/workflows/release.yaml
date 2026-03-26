@@ -1,0 +1,30 @@
+name: Docker Release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+jobs:
+  markdown_to_pdf:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Build PDF
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: docs/zh_CN
+          output_dir: pdfs
+          images_dir: docs/img
+          build_pdf: true
+    
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: pdfs/*.pdf
