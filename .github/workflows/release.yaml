@@ -1,4 +1,4 @@
-name: Docker Release
+name: PDF Release
 
 on:
   push:
