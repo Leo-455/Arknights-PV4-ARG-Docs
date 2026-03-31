@@ -35,6 +35,9 @@
 - [结尾](#结尾)
 - [推荐阅读](#推荐阅读)
 - [时间线](#时间线)
+- [其它](#其它)
+    - [一阶段中的恒星](#一阶段中的恒星)
+    - [分支剧情中一些值得注意的部分](#分支剧情中一些值得注意的部分)
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -169,7 +172,7 @@ ITA2 码表：[^ITA2]
 
 ![](../img/线索2.png)
 
-“the spine”，意味着脊髓、脊柱。而下面显然指的是视频中的一个时间点，因此我们回到视频中寻找。需要注意的是，这个时间点是B站版的时间，由于多了个片头，所以实际上是在微博版视频的1:53左右。
+“the spine”，意思是脊髓、脊柱。而下面显然指的是视频中的一个时间点，因此我们回到视频中寻找。需要注意的是，这个时间点是B站版的时间，由于多了个片头，所以实际上是在微博版视频的1:53左右。
 
 ![](../img/@明日方舟Arknights%20的个人主页%20-%20微博.mp4_20250930_230334.948.jpg)
 
@@ -287,12 +290,12 @@ ib ahbyp
 经过对比，与PV4 2:04附近的音频类似。逐帧查看这段视频，可以发现左下角的电视机上闪过一个红三角：
 ![](../img/@明日方舟Arknights%20的个人主页%20-%20微博.mp4_20251002_010014.857.jpg)
 
-这个电视机以及红三角的形式很容易让我们联想到 YouTube 的标志。
+这个电视机以及红三角的形式可以让我们联想到 YouTube 的标志。
 
 随后有一串字符`UC0jG8cS7Azclc9CyclG3iZg`出现了两帧：
 ![](../img/@明日方舟Arknights%20的个人主页%20-%20微博.mp4_20251002_010027.574.jpg)
 
-将字符串抄写下来在 YouTube 上进行搜索，可以找到这个名叫 `DM01Luk` 的频道，频道于2024年4月26日注册，只上传过一条[视频](https://youtube.com/shorts/p2Aw_H-tYBU?si=HCRyY-K79n640elt)，在视频中的皮划艇上我们可以看到答案：CAPELLA，五车二。
+将字符串抄写下来在 YouTube 上进行搜索，可以找到这个名叫 `DM01Luk` 的频道，频道于2024年4月26日注册，只上传过一条[视频](https://youtube.com/shorts/p2Aw_H-tYBU?si=HCRyY-K79n640elt)（搬运视频[见此](https://www.bilibili.com/video/BV1v7421f7HE/)），在视频中的皮划艇上我们可以看到答案：CAPELLA，五车二。
 
 ![](../img/Capella.jpg)
 
@@ -311,7 +314,7 @@ ib ahbyp
 >连线后
 ![](../img/狮子座.jpg)
 
-顺着黄道寻找，我们很容易找到这颗位于狮子座的恒星，轩辕十四，Regulus
+顺着黄道寻找，我们可以找到这颗位于狮子座的恒星，即轩辕十四，Regulus
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -347,7 +350,8 @@ ib ahbyp
 但好在很快有人猜到了用户名是`elcaro`，`oracle`的倒写。
 >这个输用户名的地方只填一个的话会提示错误，必须两个都填上（随便填一个密码）才能正确显示。
 
-通过对比[国际服](https://github.com/Kengxxiao/ArknightsGameData_YoStar)与[国服](https://github.com/Kengxxiao/ArknightsGameData)的剧情文本，可以确认`Oracle`为`预言家`的英文翻译。此外通过对比[《明日方舟：终末地》技术测试PV](https://www.bilibili.com/video/BV1ph4y1i7Ua/)中英文版本02:50的字幕可得到同样的结果：  
+通过对比[国际服](https://github.com/Kengxxiao/ArknightsGameData_YoStar)与[国服](https://github.com/Kengxxiao/ArknightsGameData)的剧情文本，可以确认`Oracle`为`预言家`的英文翻译。
+>通过对比[《明日方舟：终末地》技术测试PV](https://www.bilibili.com/video/BV1ph4y1i7Ua/)中英文版本02:50的字幕可得到同样的结果    
 >“管理员？预言家？还是干脆叫你博士？”  
 >“Endministrator? Oracle? Perhaps i can just call you ...the Doctor?”
 
@@ -395,7 +399,9 @@ ib ahbyp
 >按照莫尔斯电码解码
 ![](../img/密码2.jpg)
 
-经过尝试，后者是正确的密码，即明日方舟[回声测试微博](https://weibo.com/6279793937/Gpsm9oeUZ)发布时间20180711的倒写。值得一提的是，在回声测试之中同样也有一场非常有意思的解谜活动，预告了可露希尔的登场。
+经过尝试，后者是正确的密码，即明日方舟[回声测试微博](https://weibo.com/6279793937/Gpsm9oeUZ)发布时间20180711的倒写。值得一提的是，在回声测试之中同样也有一场非常有意思的解谜活动，预告了可露希尔的登场[^echo-puzzle]。
+
+[^echo-puzzle]: 给博士——一封来自″CLOSURE″的隐秘信件-微博-_GORIE https://weibo.com/ttarticle/p/show?id=2309404301562762634017
 
 此时再使用正确的用户名与密码登陆只会显示一条消息：
 
@@ -869,7 +875,7 @@ overcontact binary
 > [!note]
 > 解包出的图片与游戏中的图片比例不同
 
-如果你还有印象，之前的图片正是上文提到过的回声测试解谜中用到的一条线索：
+如果你还有印象，之前的图片是回声测试解谜[^echo-puzzle]中用过的一条线索：
 
 ![](../img/all_clear.png)
 
@@ -910,25 +916,28 @@ $$
 手动或使用程序解码后可得到相同的答案 `bymyside`
 
 同样，将这段文字加到官网后面即可得到[第三个网站](https://ak.hypergryph.com/bymyside)，里面有一个与一阶段类似的登录入口，但没有其他信息。  
-经过尝试，用户名和密码为：VFTS352和48399110
+经过尝试，用户名为`VFTS352`，密码为`48399110`
+> [!note]
+> 用户名大小写不敏感
 
 > 用户名在刚解出[过接双星](#手动解码)的时候大家就注意到它了，因为这颗星还是挺有名的，如果搜过接双星或者overcontact binary基本上前几个结果就是它。  
 > 密码在还不知道lynchpin页面的百分数是循环的时候，很多人就猜到信息会不会是这些数字的差，因此百分数循环完一次的时候这串数字也就解出来了。  
 > 所以实际上这两串文本都是早早就有了，只是当时大家并不知道这就是网站的用户名和密码。因此很快就被试出来了。
 
-VFTS352是一颗巨大的过接双星，于2015年被发现，在当时，它是被发现的最大最热的过接双星。双星指的是互绕公共质量中心作周期性轨道运动的两个恒星级天体系统（广义上的双星还包括视双星）即两颗恒星互相围绕着对方运动。而在过接双星中，这两颗恒星的距离很近，以至于它们的大气连接在了一起，形成一个让人印象深刻的形如漏斗的形状：[^vfts352_paper] [^vfts352_news]
+VFTS352是一颗巨大的过接双星，于2015年被发现，在当时，它是被发现的最大最热的过接双星。  
+双星指的是互绕公共质量中心作周期性轨道运动的两个恒星级天体系统（广义上的双星还包括视双星）即两颗恒星互相围绕着对方运动。而在过接双星中，这两颗恒星的距离很近，以至于它们的大气连接在了一起，形成一个让人印象深刻的形如漏斗的形状：[^vfts352_paper] [^vfts352_news]
 ![](../img/eso1540a.jpg)
 
 [^vfts352_news]: [DISCOVERY OF THE MASSIVE OVERCONTACT BINARY VFTS 352-ESO](https://www.eso.org/public/news/eso1540/)
 
 [^vfts352_paper]: [DOI 10.1088/0004-637X/812/2/102](https://iopscience.iop.org/article/10.1088/0004-637X/812/2/102)
 
-不仅如此，当我们回过头来看一阶段中的那些恒星时，可以发现它们无一例外全部是双星系统。
-> 当然，也有可能仅仅是巧合
-
-而密码则是lychpin网站不断循环的百分数的增量。
+而密码则是 lynchpin 网站不断循环的百分数的增量。
 
 登录成功后会跳转回lynchpin网站，这时我们可以发现网站的页面变了。在背景上有两个圆环在运动，似乎是双星系统的一种表示。除此之外，在四周还有四个闪烁的圆，在上面使用的图片中同样可以看到。而最特别的一点则是这个网站需要登录你的游戏账号。登陆后是一个心理测试。
+
+>[!note]
+> 跳转后会附带一个名为`puzzle`的 Cookie 。清除 Cookie 后即可回到原来的 lynchpin 页面。
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -1052,6 +1061,8 @@ VFTS352是一颗巨大的过接双星，于2015年被发现，在当时，它是
 其中结果为白的 value 为 true ，蓝的为 false 。
 
 `"rank": 35924`为页面下面的序号，基本可以确认为答题顺序。
+
+页面中间的单词`synchronized`意为“已同步”。
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -1280,17 +1291,73 @@ EXPORT_CHUNK story_lynchpin TO _story -> story_content
 [Subtitle(text="你已经寻找到自己生命的意义了吗？", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 ```
 
-<details>
+<div STYLE="page-break-after: always;"></div>
 
-<summary>一些值得注意的部分</summary>
+## 其它服务器分支剧情
+> 原始文本链接：
 
+- 国际服：[原始](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/en_US/gamedata/story/obt/main/level_main_15-15_end.txt) / [蓝色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/en_US/gamedata/story/obt/main/level_main_15-15_end_variation01.txt) / [白色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/en_US/gamedata/story/obt/main/level_main_15-15_end_variation02.txt)  
+- 日服：[原始](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ja_JP/gamedata/story/obt/main/level_main_15-15_end.txt) / [蓝色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ja_JP/gamedata/story/obt/main/level_main_15-15_end_variation01.txt) / [白色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ja_JP/gamedata/story/obt/main/level_main_15-15_end_variation02.txt)  
+- 韩服：[原始](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ko_KR/gamedata/story/obt/main/level_main_15-15_end.txt) / [蓝色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ko_KR/gamedata/story/obt/main/level_main_15-15_end_variation01.txt) / [白色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ko_KR/gamedata/story/obt/main/level_main_15-15_end_variation02.txt)  
+
+<div STYLE="page-break-after: always;"></div>
+
+# 结尾
+
+到这里，PV4解谜的大部分内容都有了答案，这场耗时将近一年的解谜活动落下了帷幕。这次解谜算是迄今为止明日方舟规模最大的一次解谜活动，乐趣与难度并存，可以说是十分成功的。这也是第一次解谜的内容对游戏中出现的剧情产生影响。除此之外，解谜中仍然存在一些无法解释的内容，比如[上文](#lynchpin-网站)提到过lynchpin网页背景噪声中疑似隐藏的信息等等。至于PV4本身也有很多很有意思的内容，比如开头电视机上的文字等等。
+
+# 推荐阅读
+
+> 推荐不分先后顺序
+
+- [NGA 解谜主贴](https://ngabbs.com/read.php?tid=40003975) 基本完整记录了解谜的全过程，不过由于楼层数太高，全看完恐怕有些困难。可以根据[时间](#时间线)进行检索。  
+- [PRTS wiki](https://prts.wiki/w/ORACLE_DATABASE/index) PRTS 上关于这次与之前解谜的介绍。
+- [明日方舟五周年PV-4谜题梳理](https://www.skland.com/article?id=1826960) / [PV4第二阶段解谜中期报告#1](https://www.skland.com/article?id=1943793) FUTURE 攻坚组的解谜报告。
+- [明日方舟NGA社区解密群 经验总结](https://docs.qq.com/doc/DQ0tuTU53VExGemNp) 有关于 ITA2、Code49和一些常见编解码与加密技术的介绍。
+- [[ITA2氵] 教你肉眼阅读国际电报码——大解码表计划 (ITA2篇)](https://ngabbs.com/read.php?tid=25809449) 关于 ITA2 的介绍。
+- [[盲文氵] 教你看懂盲文——大解码表计划 (布莱叶盲文篇)](https://ngabbs.com/read.php?tid=25594553) 关于盲文的介绍。
+- [[条形码氵] 教你肉眼扫描条形码——大解码表计划 (Code39篇)](https://ngabbs.com/read.php?tid=25356636) 关于 Code39 条码的介绍，尽管这次解谜中没出现，但在之前的一些彩蛋中出现过。
+- [PV4解密假说收集](https://docs.qq.com/sheet/DZmFvZkpPUGtVR1Fl) / [PV4解密包裹图片+录音汇总.](https://docs.qq.com/sheet/DUkVRbllrTmxqSkdw) 社区共享文档
+
+# 时间线
+本章会简要介绍上文 PV4 解谜中主要节点的**大致**时间点
+
+- `2024-04-27 21:20` PV4 视频发布
+- `2024-04-27 晚上` 明显线索被发现
+- `2024-04-28 12:22` 解谜网站被发现（NGA 主贴发布）
+- `2024-04-28 13:40` NGA 解出用户名，进入网站
+- `2024-04-28 14:38` 网站更新
+- `2024-04-28 17:00` FUTURE 攻坚组发布《明日方舟五周年PV-4谜题梳理》[^team-future-report#1]
+- `2024-05-10` 收到快递确认短信
+- `2024-05-16 09:00` 开始收到包裹
+- `2024-05-16 23:00` 解出 `overcontact binary`
+- `2024-05-17 10:00` 卡片基本到齐
+- `2024-05-18` 进入网站的第二种方式被发现
+- `2024-05-19` FUTURE 攻坚组发布《PV4第二阶段解谜中期报告#1》[^team-future-report#2]
+- `2025-02-14 16:10` 主线任务完成图片被替换
+- `2025-02-14 17:00` 解出问卷网站
+- `2025-02-14 17:45` 进入问卷网站
+- `2025-08-07` 外服[推文](#日服)发布
+
+<div STYLE="page-break-after: always;"></div>
+
+# 其它
+这部分收录了一些附加信息和无法被证实的内容与猜想。
+
+
+### 一阶段中的恒星
+一阶段线索中的恒星全部是双星系统，在整场解密中“双星”这一意象出现了很多次。当然，这也有可能仅仅是巧合，毕竟双星系统是宇宙中最常见的恒星系统。
+
+### 分支剧情中一些值得注意的部分
+
+>[!warning]
 > 仅代表个人看法
 
 结果为白的部分：
 
 个人觉得最重磅的一段
 
->[name="普瑞赛斯"]不要担心，就当作是一次寻常的休眠吧。除了时间要稍微漫长一点，和<font color="red">以往的时间旅行</font>并无本质不同。
+>[name="普瑞赛斯"]不要担心，就当作是一次寻常的休眠吧。除了时间要稍微漫长一点，和<font color="red">*以往的时间旅行*</font>并无本质不同。
 
 前文明竟然有时间旅行的能力？？而且还不止一次。听普瑞赛斯的意思，好像还是一件很平常的事情。这无疑让一些关于多时间线的猜想可信度大大增强了。
 
@@ -1341,52 +1408,6 @@ EXPORT_CHUNK story_lynchpin TO _story -> story_content
 
 ---
 
-</details>
 
-<div STYLE="page-break-after: always;"></div>
 
-## 其它服务器分支剧情
-> 原始文本链接：
 
-- 国际服：[原始](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/en_US/gamedata/story/obt/main/level_main_15-15_end.txt) / [蓝色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/en_US/gamedata/story/obt/main/level_main_15-15_end_variation01.txt) / [白色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/en_US/gamedata/story/obt/main/level_main_15-15_end_variation02.txt)  
-- 日服：[原始](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ja_JP/gamedata/story/obt/main/level_main_15-15_end.txt) / [蓝色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ja_JP/gamedata/story/obt/main/level_main_15-15_end_variation01.txt) / [白色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ja_JP/gamedata/story/obt/main/level_main_15-15_end_variation02.txt)  
-- 韩服：[原始](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ko_KR/gamedata/story/obt/main/level_main_15-15_end.txt) / [蓝色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ko_KR/gamedata/story/obt/main/level_main_15-15_end_variation01.txt) / [白色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ko_KR/gamedata/story/obt/main/level_main_15-15_end_variation02.txt)  
-
-<div STYLE="page-break-after: always;"></div>
-
-# 结尾
-
-到这里，PV4解谜的大部分内容都有了答案，这场耗时将近一年的解谜活动落下了帷幕。这次解谜算是迄今为止明日方舟规模最大的一次解谜活动，乐趣与难度并存，可以说是十分成功的。这也是第一次解谜的内容对游戏中出现的剧情产生影响。除此之外，解谜中仍然存在一些无法解释的内容，比如[上文](#lynchpin-网站)提到过lynchpin网页背景噪声中疑似隐藏的信息等等。至于PV4本身也有很多很有意思的内容，比如开头电视机上的文字等等。
-
-# 推荐阅读
-
-> 推荐不分先后顺序
-
-- [NGA 解谜主贴](https://ngabbs.com/read.php?tid=40003975) 基本完整记录了解谜的全过程，不过由于楼层数太高，全看完恐怕有些困难。可以根据[时间](#时间线)进行检索。  
-- [PRTS wiki](https://prts.wiki/w/ORACLE_DATABASE/index) PRTS 上关于这次与之前解谜的介绍。
-- [明日方舟五周年PV-4谜题梳理](https://www.skland.com/article?id=1826960) / [PV4第二阶段解谜中期报告#1](https://www.skland.com/article?id=1943793) FUTURE 攻坚组的解谜报告。
-- [明日方舟NGA社区解密群 经验总结](https://docs.qq.com/doc/DQ0tuTU53VExGemNp) 有关于 ITA2、Code49和一些常见编解码与加密技术的介绍。
-- [[ITA2氵] 教你肉眼阅读国际电报码——大解码表计划 (ITA2篇)](https://ngabbs.com/read.php?tid=25809449) 关于 ITA2 的介绍。
-- [[盲文氵] 教你看懂盲文——大解码表计划 (布莱叶盲文篇)](https://ngabbs.com/read.php?tid=25594553) 关于盲文的介绍。
-- [[条形码氵] 教你肉眼扫描条形码——大解码表计划 (Code39篇)](https://ngabbs.com/read.php?tid=25356636) 关于 Code39 条码的介绍，尽管这次解谜中没出现，但在之前的一些彩蛋中出现过。
-- [PV4解密假说收集](https://docs.qq.com/sheet/DZmFvZkpPUGtVR1Fl) / [PV4解密包裹图片+录音汇总.](https://docs.qq.com/sheet/DUkVRbllrTmxqSkdw) 社区共享文档
-
-# 时间线
-本章会简要介绍上文 PV4 解谜中主要节点的**大致**时间点
-
-- `2024-04-27 21:20` PV4 视频发布
-- `2024-04-27 晚上` 明显线索被发现
-- `2024-04-28 12:22` 解谜网站被发现（NGA 主贴发布）
-- `2024-04-28 13:40` NGA 解出用户名，进入网站
-- `2024-04-28 14:38` 网站更新
-- `2024-04-28 17:00` FUTURE 攻坚组发布《明日方舟五周年PV-4谜题梳理》[^team-future-report#1]
-- `2024-05-10` 收到快递确认短信
-- `2024-05-16 09:00` 开始收到包裹
-- `2024-05-16 23:00` 解出 `overcontact binary`
-- `2024-05-17 10:00` 卡片基本到齐
-- `2024-05-18` 进入网站的第二种方式被发现
-- `2024-05-19` FUTURE 攻坚组发布《PV4第二阶段解谜中期报告#1》[^team-future-report#2]
-- `2025-02-14 16:10` 主线任务完成图片被替换
-- `2025-02-14 17:00` 解出问卷网站
-- `2025-02-14 17:45` 进入问卷网站
-- `2025-08-07` 外服[推文](#日服)发布
