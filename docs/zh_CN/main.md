@@ -29,8 +29,9 @@
   - [国际服](#国际服)
   - [韩服](#韩服)
 - [分支剧情](#分支剧情)
-    - [结果为白的剧情](#结果为白的剧情)
-    - [结果为蓝的剧情](#结果为蓝的剧情)
+    - [结果为白（分支01）的剧情](#结果为白分支01的剧情)
+    - [结果为蓝（分支02）的剧情](#结果为蓝分支02的剧情)
+  - [其它服务器分支剧情](#其它服务器分支剧情)
 - [结尾](#结尾)
 - [推荐阅读](#推荐阅读)
 - [时间线](#时间线)
@@ -142,7 +143,9 @@ ITA2 码表：[^ITA2]
 
 ![](https://img.nga.178.com/attachments/mon_202404/28/-klbw3Q19e-aq3tK1fT1kSgw-sg.png)
 
-但我们现在知道，实际上这时字谜是有误的，因此在当时解出用户名的过程有很多猜测的成分。关于这一点会在后面详细说到，现在我们先来看看这七条线索。
+原始页面存档[见此](https://web.archive.org/web/20240428044227/https://ak.hypergryph.com/standbyherside/)
+
+但我们现在知道，实际上这时字谜是有误的，因此在当时解出用户名的过程有很多猜测的成分。关于这一点会在后面详细说明，现在我们先来看看这七条线索。
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -430,7 +433,7 @@ ib ahbyp
 转录的录音文字内容如下：
 > [!WARNING]
 >录音转录的文字/数字内容并非官方提供，仅供参考。  
->比如一开始大家基本都认为第二段中的人叫“洛”，但根据后来的内容[^lu]我们知道实际上应该是“陆”。区位码可能的朗读错误会在后文提到。
+>比如一开始大家基本都认为第二段中的人叫“洛”，但根据后来的内容[^lu]我们知道实际上应该是“陆”。区位码可能的朗读错误会在后文说明。
 
 [^lu]: 最早出现是在[集成回顾「潮起潮又起」](https://www.bilibili.com/opus/1035234985480552470) 中，藏品“养育者基因种”中提到：`陆对这一模型很有信心`
   后来在15-8行动前提到：`[name="预言家"]（未知语言）对了，陆发来了讯息，深蓝之树也难得有了突破。很快她又可以来看我们了。
@@ -481,6 +484,8 @@ TT
 ```
 警惕你自己源石目标已经改变相信ＡＭａ—１０
 ```
+
+<div STYLE="page-break-after: always;"></div>
 
 ## 纸片
 纸片分为两组，一组图案为黑底，另一组为白底。每组7种，共14种。
@@ -581,6 +586,8 @@ la noche arrolladora, el universo.
   "msg": ""
 }
 ```
+
+至今的进度条数字记录[见此](https://github.com/Leo-455/lynchpin_log)
 
 >现在我们知道了数字是循环的，随之而来的问题是，循环究竟是从哪里开始的？  
 >我个人认为就是从 0% 开始的，因为。1.在后面解三阶段的密码时，是从 0%开始算的。2.三阶段网站更新后的第二天，循环被重置回了 0%
@@ -902,9 +909,14 @@ $$
 
 手动或使用程序解码后可得到相同的答案 `bymyside`
 
-同样，将这段文字加到官网后面即可得到[第三个网站](https://ak.hypergryph.com/bymyside)，里面有一个与一阶段类似的登录入口，但没有其他信息。很快，用户名和密码就被试了出来：VFTS352和48399110
+同样，将这段文字加到官网后面即可得到[第三个网站](https://ak.hypergryph.com/bymyside)，里面有一个与一阶段类似的登录入口，但没有其他信息。  
+经过尝试，用户名和密码为：VFTS352和48399110
 
-VFTS352，一颗巨大的过接双星，其实早在刚解出过接双星时，大家就注意到了它。VFTS352于2015年被欧洲南方天文台发现，在当时，它是被发现的最大最热的过接双星。双星指的是互绕公共质量中心作周期性轨道运动的两个恒星级天体系统（广义上的双星还包括视双星）两颗恒星互相围绕着对方运动。而在过接双星中，这两颗恒星的距离很近，以至于它们的大气连接在了一起，形成一个让人印象深刻的形如漏斗的形状：[^vfts352_paper] [^vfts352_news]
+> 用户名在刚解出[过接双星](#手动解码)的时候大家就注意到它了，因为这颗星还是挺有名的，如果搜过接双星或者overcontact binary基本上前几个结果就是它。  
+> 密码在还不知道lynchpin页面的百分数是循环的时候，很多人就猜到信息会不会是这些数字的差，因此百分数循环完一次的时候这串数字也就解出来了。  
+> 所以实际上这两串文本都是早早就有了，只是当时大家并不知道这就是网站的用户名和密码。因此很快就被试出来了。
+
+VFTS352是一颗巨大的过接双星，于2015年被发现，在当时，它是被发现的最大最热的过接双星。双星指的是互绕公共质量中心作周期性轨道运动的两个恒星级天体系统（广义上的双星还包括视双星）即两颗恒星互相围绕着对方运动。而在过接双星中，这两颗恒星的距离很近，以至于它们的大气连接在了一起，形成一个让人印象深刻的形如漏斗的形状：[^vfts352_paper] [^vfts352_news]
 ![](../img/eso1540a.jpg)
 
 [^vfts352_news]: [DISCOVERY OF THE MASSIVE OVERCONTACT BINARY VFTS 352-ESO](https://www.eso.org/public/news/eso1540/)
@@ -1053,6 +1065,17 @@ VFTS352，一颗巨大的过接双星，其实早在刚解出过接双星时，�
 
 ![](../img/Gxu8ADmawAA9S73.jpg)
 
+图片下部的莫尔斯电码为：
+```
+.-/.-./-.-/-./../--./..../-/.../.-.-.-/.---/.--./-..-./
+.-../-.--/-./-.-./..../.--./../-.
+```
+
+解码后的内容为：`ARKNIGHTS.JP/LYNCHPIN`  
+指向日服的问卷网站 https://arknights.global/lynchpin
+
+题目内容[见此](https://www.bilibili.com/video/BV1EuKKeXE9Z?p=2)
+
 ## 国际服
 
 2025年8月8日 (UTC +8)，国际服的X（推特）官号发布了一条类似的的[推文](https://x.com/ArknightsEN/status/1953667488258142458?s=20)：
@@ -1062,6 +1085,17 @@ VFTS352，一颗巨大的过接双星，其实早在刚解出过接双星时，�
 附带的图片基本相同：
 
 ![](../img/GxzGKtnbsAAwRyX.png)
+
+图片下部的莫尔斯电码为：
+```
+.-/.-./-.-/-./../--./..../-/.../.-.-.-/--./.-../---/-.../.-/.-..
+-..-./.-../-.--/-./-.-./..../.--./../-.
+```
+
+解码后内容为：`ARKNIGHTS.GLOBAL/LYNCHPIN`  
+指向国际服的问卷网站 https://arknights.global/lynchpin
+
+题目内容[见此](https://www.bilibili.com/video/BV1EuKKeXE9Z?p=3)
 
 ## 韩服
 
@@ -1073,8 +1107,19 @@ VFTS352，一颗巨大的过接双星，其实早在刚解出过接双星时，�
 
 ![](../img/GxuoQStawAAq2k4.jpg)
 
+图片下部的莫尔斯电码为：
+```
+.-/.-./-.-/-./../--./..../-/.../.-.-.-/-.-/.-./
+-..-./.-../-.--/-./-.-./..../.--./../-.
+```
+
+解码后内容为：`ARKNIGHTS.KR/LYNCHPIN`
+
+
 甚至官方直接下场发了答案  
 ![](../img/禁止自导自演.png)
+
+<div STYLE="page-break-after: always;"></div>
 
 # 分支剧情
 <details>
@@ -1140,7 +1185,7 @@ EXPORT_CHUNK story_lynchpin TO _story -> story_content
 
 首先是没有做过测试的剧情，将会直接进入到甲板上与普瑞塞斯交战。（原始文件可以在[这里](https://github.com/Kengxxiao/ArknightsGameData/blob/master/zh_CN/gamedata/story/obt/main/level_main_15-15_end.txt)找到）
 
-### 结果为白的剧情
+### 结果为白（分支01）的剧情
 >原始文件可以在[这里](https://github.com/Kengxxiao/ArknightsGameData/blob/master/zh_CN/gamedata/story/obt/main/level_main_15-15_end_variation01.txt)找到
 ```
 [name="普瑞赛斯"]你看上去有些低落，{@nickname}。
@@ -1182,7 +1227,7 @@ EXPORT_CHUNK story_lynchpin TO _story -> story_content
 ```
 
 
-### 结果为蓝的剧情
+### 结果为蓝（分支02）的剧情
 >原始文件可以在[这里](https://github.com/Kengxxiao/ArknightsGameData/blob/master/zh_CN/gamedata/story/obt/main/level_main_15-15_end_variation02.txt)找到
 ```
 [name="预言家"]我们已经走出去很远了，恐怕再继续探索，也没有太大的意义了。
@@ -1300,6 +1345,15 @@ EXPORT_CHUNK story_lynchpin TO _story -> story_content
 
 <div STYLE="page-break-after: always;"></div>
 
+## 其它服务器分支剧情
+> 原始文本链接：
+
+- 国际服：[原始](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/en_US/gamedata/story/obt/main/level_main_15-15_end.txt) / [蓝色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/en_US/gamedata/story/obt/main/level_main_15-15_end_variation01.txt) / [白色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/en_US/gamedata/story/obt/main/level_main_15-15_end_variation02.txt)  
+- 日服：[原始](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ja_JP/gamedata/story/obt/main/level_main_15-15_end.txt) / [蓝色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ja_JP/gamedata/story/obt/main/level_main_15-15_end_variation01.txt) / [白色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ja_JP/gamedata/story/obt/main/level_main_15-15_end_variation02.txt)  
+- 韩服：[原始](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ko_KR/gamedata/story/obt/main/level_main_15-15_end.txt) / [蓝色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ko_KR/gamedata/story/obt/main/level_main_15-15_end_variation01.txt) / [白色](https://github.com/Kengxxiao/ArknightsGameData_YoStar/blob/main/ko_KR/gamedata/story/obt/main/level_main_15-15_end_variation02.txt)  
+
+<div STYLE="page-break-after: always;"></div>
+
 # 结尾
 
 到这里，PV4解谜的大部分内容都有了答案，这场耗时将近一年的解谜活动落下了帷幕。这次解谜算是迄今为止明日方舟规模最大的一次解谜活动，乐趣与难度并存，可以说是十分成功的。这也是第一次解谜的内容对游戏中出现的剧情产生影响。除此之外，解谜中仍然存在一些无法解释的内容，比如[上文](#lynchpin-网站)提到过lynchpin网页背景噪声中疑似隐藏的信息等等。至于PV4本身也有很多很有意思的内容，比如开头电视机上的文字等等。
@@ -1315,6 +1369,7 @@ EXPORT_CHUNK story_lynchpin TO _story -> story_content
 - [[ITA2氵] 教你肉眼阅读国际电报码——大解码表计划 (ITA2篇)](https://ngabbs.com/read.php?tid=25809449) 关于 ITA2 的介绍。
 - [[盲文氵] 教你看懂盲文——大解码表计划 (布莱叶盲文篇)](https://ngabbs.com/read.php?tid=25594553) 关于盲文的介绍。
 - [[条形码氵] 教你肉眼扫描条形码——大解码表计划 (Code39篇)](https://ngabbs.com/read.php?tid=25356636) 关于 Code39 条码的介绍，尽管这次解谜中没出现，但在之前的一些彩蛋中出现过。
+- [PV4解密假说收集](https://docs.qq.com/sheet/DZmFvZkpPUGtVR1Fl) / [PV4解密包裹图片+录音汇总.](https://docs.qq.com/sheet/DUkVRbllrTmxqSkdw) 社区共享文档
 
 # 时间线
 本章会简要介绍上文 PV4 解谜中主要节点的**大致**时间点
@@ -1334,3 +1389,4 @@ EXPORT_CHUNK story_lynchpin TO _story -> story_content
 - `2025-02-14 16:10` 主线任务完成图片被替换
 - `2025-02-14 17:00` 解出问卷网站
 - `2025-02-14 17:45` 进入问卷网站
+- `2025-08-07` 外服[推文](#日服)发布
